@@ -7,8 +7,8 @@ public class App
 {
 
     public long add(long first, long second) {
-        int dao,dinesh
-        String mon
+        int dao,dinesh;
+        String mon;
         return first + second;
     }
 
